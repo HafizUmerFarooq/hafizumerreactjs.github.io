@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/HafizUmerFarooq/UmerReactFirstSite.github.io.git/static/js/main.a2ee4a5a.chunk.js",
+    "main.js.map": "/HafizUmerFarooq/UmerReactFirstSite.github.io.git/static/js/main.a2ee4a5a.chunk.js.map",
+    "runtime-main.js": "/HafizUmerFarooq/UmerReactFirstSite.github.io.git/static/js/runtime-main.76c0c67c.js",
+    "runtime-main.js.map": "/HafizUmerFarooq/UmerReactFirstSite.github.io.git/static/js/runtime-main.76c0c67c.js.map",
+    "static/css/2.22db8cda.chunk.css": "/HafizUmerFarooq/UmerReactFirstSite.github.io.git/static/css/2.22db8cda.chunk.css",
+    "static/js/2.0c468d63.chunk.js": "/HafizUmerFarooq/UmerReactFirstSite.github.io.git/static/js/2.0c468d63.chunk.js",
+    "static/js/2.0c468d63.chunk.js.map": "/HafizUmerFarooq/UmerReactFirstSite.github.io.git/static/js/2.0c468d63.chunk.js.map",
+    "index.html": "/HafizUmerFarooq/UmerReactFirstSite.github.io.git/index.html",
+    "precache-manifest.ee024de273c93cea58a5122902f8c9be.js": "/HafizUmerFarooq/UmerReactFirstSite.github.io.git/precache-manifest.ee024de273c93cea58a5122902f8c9be.js",
+    "service-worker.js": "/HafizUmerFarooq/UmerReactFirstSite.github.io.git/service-worker.js",
+    "static/css/2.22db8cda.chunk.css.map": "/HafizUmerFarooq/UmerReactFirstSite.github.io.git/static/css/2.22db8cda.chunk.css.map",
+    "static/js/2.0c468d63.chunk.js.LICENSE.txt": "/HafizUmerFarooq/UmerReactFirstSite.github.io.git/static/js/2.0c468d63.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/HafizUmerFarooq/UmerReactFirstSite.github.io.git/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76c0c67c.js",
+    "static/css/2.22db8cda.chunk.css",
+    "static/js/2.0c468d63.chunk.js",
+    "static/js/main.a2ee4a5a.chunk.js"
+  ]
+}
